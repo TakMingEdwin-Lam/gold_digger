@@ -1,4 +1,4 @@
-# Gold Digger
+# Gold Digger (Game #3)
 Just for fun and learning python.
 
 ![gold_title](https://github.com/edwin5354/gold_digger/assets/165879372/0f477851-7377-425a-a518-5be18d6a0661)
